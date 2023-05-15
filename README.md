@@ -114,15 +114,17 @@ Example board:
 
 `input.txt` file contents should be:
 
-006007000  
-000900005  
-050020100  
-000000560  
-080073000  
-900100000  
-800000013  
-009080007  
+```
+006007000
+000900005
+050020100
+000000560
+080073000
+900100000
+800000013
+009080007
 530000004
+```
 
 where the zeros represent blank space. Run the program to solve the board.
 
